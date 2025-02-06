@@ -1,6 +1,6 @@
 {
-  "homepage": "https://rph-tufail.github.io/",
-  "name": "tufailfolio",
+  "homepage": "https://developerfolio.js.org/",
+  "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
